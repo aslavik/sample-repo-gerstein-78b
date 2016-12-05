@@ -1,1 +1,28 @@
 The quick brown fox jumps over the lazy dog.
+
+apple
+banana
+chocolate
+dogs
+ewoks
+fans
+goblins
+hippopotamus
+imaginary numbers
+jelly
+kiwi
+lemons
+maple trees
+necks
+octopi
+pandas
+questions
+rabbits
+snakes
+tables
+unicorns
+violins
+weather
+xylophones
+yellow
+zebra
